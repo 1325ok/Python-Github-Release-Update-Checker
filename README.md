@@ -6,7 +6,8 @@ requests | https://github.com/psf/requests | https://github.com/psf/requests/blo
    
 ## Example   
 ```py
-PGRUC("user/repo","2024-01-20T11:13:05Z",True)
+import github_release_update_checker as gruc
+gruc.PGRUC("user/repo","2024-01-20T11:13:05Z",True)
 ```
 ![Example](https://raw.githubusercontent.com/1325ok/Python-Github-Release-Update-Checker/main/ext/image2.png)
 ## Install

@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="github-release-update-checker", # Replace with your own username
-    version="1.0.3",
+    version="1.0.4",
     author="1325OK",
     author_email="1325ok.help@gmail.com",
     description="A simple GUI-based update notifier in Python",
